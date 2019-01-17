@@ -44,20 +44,23 @@
 <a href="https://reinx.guide/">Installation Guide</a><br>
 <a href="https://gbatemp.net/threads/official-reinx-thread.512203/">Official Thread</a></p>
 <hr>
-<h3 id="sx-os-paid">SX OS (Paid)</h3>
+<h3 id="atmosphere">Atmosphere</h3>
+<p><strong>Features:</strong></p>
 <ul>
-<li>
-<p>SX OS Works with every Nintendo Switch console  <strong>released before June 2018</strong>  out there. On every firmware version.</p>
-</li>
-<li>
-<p>With SX OS you can play all your favorite games straight off of the microSD card inserted into your Nintendo Switch.</p>
-</li>
-<li>
-<p>Using SX OS homebrew menu launcher you can enjoy all the quality games and software by independent developers.</p>
-</li>
-<li>
-<p>Using the SX OS Launcher you can easily boot into the normal Nintendo Switch firmware to enjoy your original games.</p>
-</li>
+<li>Fusée: First-stage Loader, responsible for loading and validating stage 2 (custom TrustZone) plus package2 (Kernel/FIRM sysmodules), and patching them as needed. This replaces all functionality normally in Package1loader/NX Bootloader.</li>
+<li>Exosphère: Customized TrustZone, to run a customized Secure Monitor</li>
+<li>Thermosphère: EL2 EmuNAND support, i.e. backing up and using virtualized/redirected NAND images</li>
+<li>Stratosphère: Custom Sysmodule(s), both Rosalina style to extend the kernel/provide new features, and of the loader reimplementation style to hook important system actions</li>
+<li>Troposphère: Application-level Horizon OS patches, used to implement desirable CFW features</li>
+</ul>
+<p><a href="https://github.com/Atmosphere-NX/Atmosphere/releases">Download Latest Version</a></p>
+<hr>
+<h3 id="sx-os-paid">SX OS (Paid)</h3>
+<p><strong>Features:</strong></p>
+<ul>
+<li>With SX OS you can play all your favorite games straight off of the microSD card inserted into your Nintendo Switch.</li>
+<li>Using SX OS homebrew menu launcher you can enjoy all the quality games and software by independent developers.</li>
+<li>Using the SX OS Launcher you can easily boot into the normal Nintendo Switch firmware to enjoy your original games.</li>
 </ul>
 <p><a href="https://sx.xecuter.com/">SX OS &amp; SX Pro Website</a></p>
 <hr>
@@ -74,7 +77,6 @@
 <p>For Checking if your Switch is hackable</p>
 <h3 id="hekate"><a href="https://github.com/CTCaer/hekate/releases">Hekate</a></h3>
 <p>Custom Nintendo Switch bootloader, firmware patcher, and more.</p>
-<h3 id="section"><a href=""></a></h3>
 <hr>
 <h2 id="pc-utilities">PC Utilities</h2>
 <h3 id="nspbuild"><a href="https://github.com/ThatNerdyPikachu/nspbuild/releases">nspbuild</a></h3>
@@ -93,5 +95,5 @@
 <p>Video Player for Switch</p>
 <hr>
 <h5 id="if-there-are-any-other-tools-you-would-like-to-see-on-here-let-me-know.">If there are any other tools you would like to see on here <a href="mailto:azonix401@gmail.com">let me know</a>.</h5>
-<h5 id="last-updated-jan-16-2019----azor1n-github">Last Updated Jan 16, 2019 – <a href="https://www.github.com/azor1n">Azor1n Github</a></h5>
+<h5 id="last-updated-jan-17-2019----azor1n-github">Last Updated Jan 17, 2019 – <a href="https://www.github.com/azor1n">Azor1n Github</a></h5>
 
