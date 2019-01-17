@@ -88,12 +88,16 @@
 <p>The Nintendo Switch Homebrew Menu</p>
 <h3 id="hb-appstore"><a href="https://github.com/vgmoose/hb-appstore/releases">hb-appstore</a></h3>
 <p>GUI for downloading/managing homebrew apps</p>
+<h3 id="retroarch"><a href="http://www.retroarch.com">Retroarch</a></h3>
+<p>Libretro emulators for Nintendo Switch</p>
 <h3 id="goldleaf"><a href="https://github.com/XorTroll/Goldleaf/releases">Goldleaf</a></h3>
 <p>Nintendo Switch homebrew multitool, for several purposes and with several features!</p>
 <h3 id="ftpd"><a href="https://github.com/WinterMute/ftpd/releases">FTPD</a></h3>
 <p>FTP Server for Switch</p>
 <h3 id="pplay"><a href="https://github.com/Cpasjuste/pplay/releases">pplay</a></h3>
 <p>Video Player for Switch</p>
+<h3 id="nx-shell"><a href="https://github.com/joel16/NX-Shell/releases">NX-Shell</a></h3>
+<p>WIP Multi purpose file manager for the Nintendo Switch.</p>
 <hr>
 <h5 id="if-there-are-any-other-tools-you-would-like-to-see-on-here-let-me-know.">If there are any other tools you would like to see on here <a href="mailto:azonix401@gmail.com">let me know</a>.</h5>
 <h5 id="last-updated-jan-17-2019----azor1n-github">Last Updated Jan 17, 2019 – <a href="https://www.github.com/azor1n">Azor1n Github</a></h5>
