@@ -60,6 +60,7 @@
 <ul>
 <li>With SX OS you can play all your favorite games straight off of the microSD card inserted into your Nintendo Switch (in XCI Format).</li>
 <li>Using SX OS homebrew menu launcher you can enjoy all the quality games and software by independent developers.</li>
+<li>Built in Cheatengine</li>
 <li>Using the SX OS Launcher you can easily boot into the normal Nintendo Switch firmware to enjoy your original games.</li>
 </ul>
 <p><a href="https://sx.xecuter.com/">SX OS &amp; SX Pro Website</a></p>
