@@ -92,6 +92,12 @@
 <p>Allows you and your friends play games like in a LAN.</p>
 <h3 id="lan-play-gui"><a href="https://github.com/takashi1kun/lan-play-GUI/releases">Lan Play GUI</a></h3>
 <p>A Visual Interface based on electron for switch-lan-play</p>
+<h3 id="xci-to-split-nsp"><a href="https://github.com/NuVanDibe/XCI-to-Split-NSP/releases">XCI-to-Split-NSP</a></h3>
+<p>For those on FAT32 and cannot convert XCI files larger than 4GB directly on the Switch</p>
+<h3 id="nsc-builder"><a href="https://github.com/julesontheroad/NSC_BUILDER/releases">NSC Builder</a></h3>
+<p>Nintendo Switch Cleaner and Builder, designed to erase titlerights encryption from nsp files and make multicontent nsp/xci files.</p>
+<h3 id="xci-builder"><a href="https://github.com/julesontheroad/XCI_Builder/releases">XCI Builder</a></h3>
+<p>A simple batchfile to convert Nintendo Switch nsp files (digital format) to xci files (cartridge format) based in LucaFraga’s hacbuild</p>
 <hr>
 <h2 id="switch-apps">Switch Apps</h2>
 <h3 id="nx-hbmenu"><a href="https://github.com/switchbrew/nx-hbmenu/releases">nx-hbmenu</a></h3>
@@ -110,14 +116,14 @@
 <p>WIP Multi purpose file manager for the Nintendo Switch.</p>
 <h3 id="lockpick"><a href="https://github.com/shchmue/Lockpick/releases">Lockpick</a></h3>
 <p>Nintendo Switch encryption key derivation homebrew</p>
-<h3 id="xci-to-split-nsp"><a href="https://github.com/NuVanDibe/XCI-to-Split-NSP/releases">XCI-to-Split-NSP</a></h3>
-<p>For those on FAT32 and cannot convert XCI files larger than 4GB directly on the Switch</p>
 <h3 id="checkpoint"><a href="https://github.com/FlagBrew/Checkpoint/releases">Checkpoint</a></h3>
 <p>Fast and simple homebrew save manager.</p>
 <h3 id="choidujournx"><a href="https://gbatemp.net/threads/choidujournx-a-system-firmware-installer-homebrew-for-the-nintendo-switch.513416/">ChoiDujourNX</a></h3>
 <p>A system firmware installer homebrew for the Nintendo Switch.</p>
 <h3 id="in-home-switching"><a href="https://github.com/jakibaki/In-Home-Switching/releases">In-Home-Switching</a></h3>
 <p>Allows you to stream your PC display to your Nintendo Switch!</p>
+<h3 id="edizon"><a href="https://github.com/WerWolv98/EdiZon/releases">EdiZon</a></h3>
+<p>A homebrew save management and editing tool for Horizon on the Nintendo Switch</p>
 <hr>
 <h2 id="other-utilities">Other Utilities</h2>
 <h3 id="ldn_mitm"><a href="https://github.com/spacemeowx2/ldn_mitm/releases">ldn_mitm</a></h3>
