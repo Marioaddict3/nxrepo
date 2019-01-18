@@ -98,6 +98,8 @@
 <p>Nintendo Switch Cleaner and Builder, designed to erase titlerights encryption from nsp files and make multicontent nsp/xci files.</p>
 <h3 id="xci-builder-discontinued"><a href="https://github.com/julesontheroad/XCI_Builder/releases">XCI Builder (Discontinued)</a></h3>
 <p>A simple batchfile to convert Nintendo Switch nsp files (digital format) to xci files (cartridge format) based in LucaFraga’s hacbuild</p>
+<h3 id="switchlayouteditor"><a href="https://github.com/FuryBaguette/SwitchLayoutEditor/releases">SwitchLayoutEditor</a></h3>
+<p>This program can edit and render BFLYT files commonly used for layouts in Switch interfaces and games. It enables you to easily create/edit themes.</p>
 <hr>
 <h2 id="switch-apps">Switch Apps</h2>
 <h3 id="nx-hbmenu"><a href="https://github.com/switchbrew/nx-hbmenu/releases">nx-hbmenu</a></h3>
@@ -130,5 +132,5 @@
 <p>Kip for playing local wireless games online.</p>
 <hr>
 <h5 id="if-there-are-any-other-tools-you-would-like-to-see-on-here-let-me-know.">If there are any other tools you would like to see on here <a href="mailto:azonix401@gmail.com">let me know</a>.</h5>
-<h5 id="last-updated-jan-17-2019----azor1n-github">Last Updated Jan 17, 2019 – <a href="https://www.github.com/azor1n">Azor1n Github</a></h5>
+<h5 id="last-updated-jan-18-2019----azor1n-github">Last Updated Jan 18, 2019 – <a href="https://www.github.com/azor1n">Azor1n Github</a></h5>
 
