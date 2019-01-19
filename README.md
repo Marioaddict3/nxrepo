@@ -101,6 +101,8 @@ Nintendo Switch Cleaner and Builder, designed to erase titlerights encryption fr
 A simple batchfile to convert Nintendo Switch nsp files (digital format) to xci files (cartridge format) based in LucaFraga's hacbuild
 ### [SwitchLayoutEditor](https://github.com/FuryBaguette/SwitchLayoutEditor/releases)
 This program can edit and render BFLYT files commonly used for layouts in Switch interfaces and games. It enables you to easily create/edit themes.
+### [VC-NX](https://github.com/Azor1n/nxrepo/releases/tag/mirror-1)
+Script that creates 
 
 ---
 ## Switch Apps
@@ -137,3 +139,6 @@ Kip for playing local wireless games online.
 ---
 ##### If there are any other tools you would like to see on here [let me know](mailto:azonix401@gmail.com).
 ##### Last Updated Jan 18, 2019 -- [Azor1n Github](https://www.github.com/azor1n)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTA2MDE0OTc2NV19
+-->
