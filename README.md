@@ -101,8 +101,8 @@ Nintendo Switch Cleaner and Builder, designed to erase titlerights encryption fr
 A simple batchfile to convert Nintendo Switch nsp files (digital format) to xci files (cartridge format) based in LucaFraga's hacbuild
 ### [SwitchLayoutEditor](https://github.com/FuryBaguette/SwitchLayoutEditor/releases)
 This program can edit and render BFLYT files commonly used for layouts in Switch interfaces and games. It enables you to easily create/edit themes.
-### [VC-NX (Mirror)](https://github.com/Azor1n/nxrepo/releases/tag/mirror-1)
-Script that easily creates retroarch forwarders (Created by [CatmanFan](https://gbatemp.net/posts/8475114/))
+### [Nro2Nsp](https://github.com/Root-MtX/Nro2Nsp/releases)
+Simple GUI for converting homebrew to NSP (and making Retroarch Forwarders)
 
 ---
 ## Switch Apps
@@ -139,6 +139,3 @@ Kip for playing local wireless games online.
 ---
 ##### If there are any other tools you would like to see on here [let me know](mailto:azonix401@gmail.com).
 ##### Last Updated Jan 18, 2019 -- [Azor1n Github](https://www.github.com/azor1n)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4NDAyODY4M119
--->
