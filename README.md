@@ -67,7 +67,7 @@
 ##  CFW Loaders
 ### [TegraRCMGui](https://github.com/eliboa/TegraRcmGUI/releases)
 For Booting into CFW using Windows
-### [Fusee-Launcher](https://github.com/Cease-and-DeSwitch/fusee-launchr)
+### [Fusee-Launcher](https://github.com/Cease-and-DeSwitch/fusee-launcher)
 For Booting into CFW using Linux/Mac
 ### [Rekado](https://github.com/MenosGrante/Rekado/releases)
 For Booting into CFW using Android 
@@ -141,5 +141,6 @@ Kip for playing local wireless games online.
 ##### If there are any other tools you would like to see on here [let me know](mailto:azonix401@gmail.com).
 ##### Last Updated Feb 2, 2019 -- [hbRepo](https://azor1n.github.io) -- [Azor1n Github](https://www.github.com/azor1n)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ4MTgzNTddfQ==
+eyJoaXN0b3J5IjpbLTE4MjQyMzg5NTYsLTIwMTQ4MTgzNTddfQ
+==
 -->
