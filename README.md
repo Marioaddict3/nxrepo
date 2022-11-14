@@ -1,5 +1,5 @@
 # nxRepo: The Switch Homebrew Repository
-
+## This repository is no longer being updated, use at your own risk!
 
 
 ## Custom Firmware 
